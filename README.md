@@ -25,3 +25,7 @@
 - [Archeology Groups](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
 - [Skill Gain Tracker](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
 - [Better Tooltips](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
+- [Discord](https://forum.wurmonline.com/index.php?/topic/162597-release-client-discord/)
+- [Unequipper](https://forum.wurmonline.com/index.php?/topic/162825-client-unequipper/)
+- [Favor Calculator](https://forum.wurmonline.com/index.php?/topic/162849-client-favor-calculator/)
+- [Chat Filter](https://forum.wurmonline.com/index.php?/topic/162643-release-client-chat-filter/)
