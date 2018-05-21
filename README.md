@@ -22,9 +22,6 @@
  - [ESP](https://forum.wurmonline.com/index.php?/topic/150187-release-client-wurmesp/)
  - [Old Colored Mobs](https://forum.wurmonline.com/index.php?/topic/150721-release-client-oldmobs/)
  - [Bright Caves](https://forum.wurmonline.com/index.php?/topic/142511-released-client-cave-vision/)
-    
-**New In Version 0.8**
-    
 - [Archeology Groups](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
 - [Skill Gain Tracker](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
 - [Better Tooltips](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
