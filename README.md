@@ -14,7 +14,7 @@
  - [Improved Compass](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
  - [Custom Keybind](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
  - [Time-Lock](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
- - [Live Mini-Map](https://forum.wurmonline.com/index.php?/topic/136217-released-live-map/)
+ - [Live Map](https://forum.wurmonline.com/index.php?/topic/136217-released-live-map/)
  - [Improved Improve](https://forum.wurmonline.com/index.php?/topic/135285-released-improved-improve-for-agos-mod-loader-client/)
  - [Custom Client Render](https://forum.wurmonline.com/index.php?/topic/158323-releaseclient-customclientrender/)
  - [Configure Seasons](https://forum.wurmonline.com/index.php?/topic/135975-releasedseason-configure-mod/)
