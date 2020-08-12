@@ -6,7 +6,7 @@
 - [Wurm Modloader Installer Script](https://github.com/Jubaroo/ClientModloaderInstaller/files/1909849/Wurm.Modloader.Script.zip)
 - Supports many different languages
 - Choose which mods you want to install (all mods checked by default)
-- Automatically runs the patcher after install if you choose so (it is recomended that you choose to do so or the mods will not work)
+- Automatically runs the patcher after install if you choose so (it is recommended that you choose to do so or the mods will not work)
 - Uninstaller included
 
 **Mods Included:**
