@@ -3,7 +3,6 @@
 - Installer for the client modloader. The goal is to make is as simple as possible to install the client modloader on PC. This is not a new mod launcher or anything. It is simply ago's modlauncher made into a simple installer.
 - Everything will be done for you through the install wizard. 
 - Installer has been written from scratch using [NSIS](http://nsis.sourceforge.net/Main_Page).
-- [Wurm Modloader Installer Script](https://github.com/Jubaroo/ClientModloaderInstaller/files/1909849/Wurm.Modloader.Script.zip)
 - Supports many different languages
 - Choose which mods you want to install (all mods checked by default)
 - Automatically runs the patcher after install if you choose so (it is recommended that you choose to do so or the mods will not work)
