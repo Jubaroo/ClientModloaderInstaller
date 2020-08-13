@@ -18,7 +18,6 @@
  - [Custom Client Render](https://forum.wurmonline.com/index.php?/topic/158323-releaseclient-customclientrender/)
  - [3rd Person View](https://forum.wurmonline.com/index.php?/topic/158402-release-third-person-view/)
  - [Scanner](https://github.com/bdew-wurm/scanner/releases)
- - [Old Colored Mobs](https://forum.wurmonline.com/index.php?/topic/150721-release-client-oldmobs/)
  - [Bright Caves](https://forum.wurmonline.com/index.php?/topic/142511-released-client-cave-vision/)
 - [Archeology Groups](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
 - [Skill Gain Tracker](https://forum.wurmonline.com/index.php?/topic/136575-released-improved-compass-no-winter-better-tooltips-custom-actions-max-toolbelt-time-lock-skill-gain-tracker-updated-apr-8/)
