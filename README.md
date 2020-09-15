@@ -1,6 +1,6 @@
 # Client Modloader Installer
 
-- Installer for the client modloader. The goal is to make is as simple as possible to install the client modloader on PC. This is not a new mod launcher or anything. It is simply ago's modlauncher made into a simple installer.
+- Installer for [ago's client modloader](https://github.com/ago1024/WurmClientModLauncher). The goal is to make is as simple as possible to install the client modloader on PC. This is not a new mod launcher or anything. It is simply ago's modlauncher made into a simple installer.
 - Everything will be done for you through the install wizard. 
 - Installer has been written from scratch using [NSIS](http://nsis.sourceforge.net/Main_Page).
 - Supports many different languages
